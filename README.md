@@ -1377,6 +1377,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Also interested in electronics and artificial Intelligence
 - [![github-alt][github-img]](https://github.com/hubblejo)
 
+### Hunter30022
+- Amateur python guy
+- Nothin' Special 'bout me
+
 # I
 
 ### Ian Vidaurre
